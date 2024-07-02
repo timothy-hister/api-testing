@@ -1,1 +1,11 @@
-This is a sample text file created via GitHub API in R.
+    commit_sha), effectively pushing the changes to GitHub.
+
+Notes:
+
+    Replace "YOUR_PERSONAL_ACCESS_TOKEN", "your_username", and "your_repository" with your actual GitHub personal access token, GitHub username, and repository name, respectively.
+    Ensure that the file_path, commit_message, and branch variables are set according to your requirements.
+    This script assumes you have write permissions to the specified repository.
+    Error handling is implemented to stop execution and display an error message if any API request fails.
+    You may need to adjust the script if your repository has different settings or if you're using a different branch.
+
+Make sure to test this script with c
